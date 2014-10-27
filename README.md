@@ -23,7 +23,7 @@ Api
 ------------------------------------------
 Choose whatever api that you want to interact with, in this case we are interacting with the touchtunes api  
 **Replace the Username, Password, and Api keys with your own**  
-You can get these by signing up for the as a developer for the service you want\n
+You can get these by signing up for the as a developer for the service you want
 
 Intel(R) XDK 
 -------------------------------------------
