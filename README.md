@@ -3,7 +3,7 @@ Btton.co Smart Jacket
 This if the program for a smart leather jacket that can interface with the TouchTunes api to play songs via an embedded button and an 
 onboard Intel Edison system
 
-Winner of the Intel IOT Roadshow New York 
+First PLace at the Intel IOT Roadshow New York 
 
 Important App Files
 ---------------------------
